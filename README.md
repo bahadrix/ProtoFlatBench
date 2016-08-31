@@ -5,9 +5,9 @@ Protocol Buffers vs  Flat Buffers Benchmark
 Libraries
 -------------
 
-- Protocol Buffers: github.com/golang/protobuf
-- Flat Buffers: github.com/google/flatbuffers
-- JSON: github.com/dustin/gojson
+- Protocol Buffers: http://github.com/golang/protobuf
+- Flat Buffers: http://github.com/google/flatbuffers
+- JSON: http://github.com/dustin/gojson
 
 Results
 -------------
