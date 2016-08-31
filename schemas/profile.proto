@@ -1,0 +1,15 @@
+syntax = "proto2";
+
+option java_package = "com.github.bahadrix";
+option java_outer_classname = "BenchPro";
+
+message Profile {
+    enum Gender {
+        Male = 0;
+        Female = 1;
+    }
+    required int64 id = 1;
+    required string name = 2;
+    required Gender gender = 3;
+    required bytes profileImage = 4;
+}

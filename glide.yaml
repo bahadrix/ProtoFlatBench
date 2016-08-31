@@ -1,0 +1,6 @@
+package: bahadir.rocks/ProtoFlatBench
+import:
+- package: github.com/google/flatbuffers
+  version: ^1.4.0
+  subpackages:
+  - go
