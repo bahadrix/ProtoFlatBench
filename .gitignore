@@ -72,3 +72,5 @@ fabric.properties
 
 /vendor
 glide.lock
+*.iml
+/.idea
